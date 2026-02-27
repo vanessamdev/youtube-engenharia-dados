@@ -1,0 +1,4 @@
+pyspark>=3.5.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
+py4j>=0.10.9.7
